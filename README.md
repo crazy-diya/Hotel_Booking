@@ -19,7 +19,7 @@ This Webpage consist only HTML and CSS.
 
 ## Mobile Images
 
-<img src="https://user-images.githubusercontent.com/61883398/151513580-be80acdc-f1f0-4646-a510-8abba7ccef85.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/61883398/151513580-be80acdc-f1f0-4646-a510-8abba7ccef85.jpg" height="500px"/>
 ![mob2](https://user-images.githubusercontent.com/61883398/151513593-55ae2561-1fb8-4b23-982d-f63402f73e59.jpg)
 ![mob3](https://user-images.githubusercontent.com/61883398/151513599-7136abad-7e13-4c20-a238-065e0f420356.jpg)
 ![mob4](https://user-images.githubusercontent.com/61883398/151513611-87c333db-d5ac-4e67-b951-16966baddfd5.jpg)
