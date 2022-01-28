@@ -8,7 +8,20 @@ This Webpage consist only HTML and CSS.
 
 # Description
 
-First one i 
+First one i included there three parts in the body. 
+  - Header.
+  - Main.
+  - Footer.
+ 
+In the main class i add 5 section.
+  - Main Section.
+  - Video Section.
+  - Hotel Section.
+  - Paces Section.
+  - Update Section.
+  > These are the things i included using html in index.html page.
+
+All the DesignPart i created using Css in style.css page.  
 
 # Images
 
